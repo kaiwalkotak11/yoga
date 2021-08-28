@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Aug 2021 16:35:33 at https://preview.colorlib.com/theme/yogabest/blog.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.colorlib.com/theme/yogabest/blog.html -O1 "C:\Kaiwal Redmi\yogabest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:36:05	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/yogabest/css/owl.video.play.png (from https://preview.colorlib.com/theme/yogabest/css/animate.css+owl.carousel.min.css+owl.theme.default.min.css+magnific-popup.css+flaticon.css+style.css.pagespeed.cc.bwKY_dlrxy.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 52 links scanned, 50 files written (8911169 bytes overall) [8217100 bytes received at 256784 bytes/sec], 990977 bytes transferred using HTTP compression in 22 files, ratio 25%, 10.4 requests per connection
+(1 errors, 0 warnings, 0 messages)
